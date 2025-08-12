@@ -6,6 +6,7 @@ gem "bootstrap"
 gem "bootstrap-sass"
 gem "sassc-rails"
 gem "sprockets-rails"
+gem "rails-controller-testing"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use sqlite3 as the database for Active Record
