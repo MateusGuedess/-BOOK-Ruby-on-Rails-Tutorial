@@ -5,7 +5,7 @@
 - 3 - Mostly Static Pages ✅
 - 4 - Rails-Flavored Ruby ✅
 - 5 - Filling in the Layout ✅
-- 6 - Modeling Users
+- 6 - Modeling Users ✅
 - 7 - Sign Up
 - 8 - Basic Login
 - 9 - Advanced Login
